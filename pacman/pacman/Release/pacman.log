@@ -1,0 +1,27 @@
+﻿  pacman.cpp
+C:\Users\user\source\repos\pacman\pacman\pacman.cpp(97,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\source\repos\pacman\pacman\pacman.cpp(102,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\source\repos\pacman\pacman\pacman.cpp(105,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\source\repos\pacman\pacman\pacman.cpp(108,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\source\repos\pacman\pacman\pacman.cpp(127,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\source\repos\pacman\pacman\pacman.cpp(141,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\user\source\repos\pacman\pacman\pacman.cpp(455,21): warning C4101: 'server': 未參考的區域變數
+C:\Users\user\source\repos\pacman\pacman\pacman.cpp(458,9): warning C4101: 'DataBuf': 未參考的區域變數
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 475 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+glut32.lib(glut32.dll) : error LNK2026: 模組對 SAFESEH 映像不安全。
+glut32.lib(glut32.dll) : error LNK2026: 模組對 SAFESEH 映像不安全。
+glut32.lib(glut32.dll) : error LNK2026: 模組對 SAFESEH 映像不安全。
+glut32.lib(glut32.dll) : error LNK2026: 模組對 SAFESEH 映像不安全。
+glut32.lib(glut32.dll) : error LNK2026: 模組對 SAFESEH 映像不安全。
+glut32.lib(glut32.dll) : error LNK2026: 模組對 SAFESEH 映像不安全。
+glut32.lib(glut32.dll) : error LNK2026: 模組對 SAFESEH 映像不安全。
+glut32.lib(glut32.dll) : error LNK2026: 模組對 SAFESEH 映像不安全。
+glut32.lib(glut32.dll) : error LNK2026: 模組對 SAFESEH 映像不安全。
+glut32.lib(glut32.dll) : error LNK2026: 模組對 SAFESEH 映像不安全。
+glut32.lib(glut32.dll) : error LNK2026: 模組對 SAFESEH 映像不安全。
+glut32.lib(glut32.dll) : error LNK2026: 模組對 SAFESEH 映像不安全。
+glut32.lib(glut32.dll) : error LNK2026: 模組對 SAFESEH 映像不安全。
+C:\Users\user\source\repos\pacman\Release\pacman.exe : fatal error LNK1281: 無法產生 SAFESEH 映像。

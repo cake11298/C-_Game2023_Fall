@@ -1,3 +1,0 @@
-C:\Users\user\source\repos\Monday_8am_class\Monday_8am_class\Debug\Monday_8am_class.vcxprojAssemblyReference.cache
-C:\Users\user\source\repos\Monday_8am_class\Monday_8am_class\Debug\Monday_8am_class.Form1.resources
-C:\Users\user\source\repos\Monday_8am_class\Monday_8am_class\Debug\Monday_8am_class.vcxproj.GenerateResource.cache

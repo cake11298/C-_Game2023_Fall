@@ -1,0 +1,6 @@
+﻿  func.cpp
+C:\Users\cake11298\source\repos\pacman\pacman\func.cpp(69,88): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\cake11298\source\repos\pacman\pacman\func.cpp(230,96): warning C4267: '引數': 將 'size_t' 轉換為 'int'，資料可能遺失
+  pacman.cpp
+  正在產生程式碼...
+LINK : fatal error LNK1104: 無法開啟檔案 'glut32.lib'
